@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-The objective of this project is to analyze the demographic characteristics and literacy rates across different districts in India using the "India Census 2011" dataset. The dataset provides information on various demographic factors such as population, gender distribution, literacy rates, religious affiliations, and educational attainment at the district level.
+The **objective** of this project is to analyze the **demographic characteristics** and **literacy rates** across different **districts** in **India** using the "**India Census 2011**" dataset. The dataset provides information on various **demographic factors** such as **population**, **gender distribution**, **literacy rates**, **religious affiliations**, and **educational attainment** at the **district level**.
 
 -----
 
